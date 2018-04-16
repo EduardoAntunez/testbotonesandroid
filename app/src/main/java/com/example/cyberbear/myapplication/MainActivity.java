@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
 
                 Button button =  findViewById(R.id.botonedu);
                 if(button.getText()=="Learn Android"){
-                    button.setText("texto2");//set the text on button
+                    button.setText("texto2change");//set the text on button
 
 
                     texto.setText("kukukuk");
